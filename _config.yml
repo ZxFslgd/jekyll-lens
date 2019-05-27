@@ -40,3 +40,5 @@ defaults:
     path: "gallery"
    values:
     image: true
+
+theme: jekyll-theme-merlot
